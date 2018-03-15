@@ -27,6 +27,12 @@ Responsibilities: UI
 
 '''
 
+=== Gloria Law
+image::gloria.jpg[width="150", align="left"]
+{empty}[http://github.com/glorialaw[github]] [<<glorialaw#, porfolio>>]
+
+'''
+
 === Johnny Doe
 image::yijinl.jpg[width="150", align="left"]
 {empty}[http://github.com/yijinl[github]] [<<johndoe#, portfolio>>]
