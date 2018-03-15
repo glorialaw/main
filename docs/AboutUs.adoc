@@ -18,12 +18,12 @@ Role: Project Advisor
 
 '''
 
-=== John Roe
-image::lejolly.jpg[width="150", align="left"]
-{empty}[http://github.com/lejolly[github]] [<<johndoe#, portfolio>>]
+=== Gloria Law
+image::gloria.jpg[width="150", align="left"]
+{empty}[https://github.com/glorialaw[github]] [<<glorialaw#, portfolio>>]
 
-Role: Team Lead +
-Responsibilities: UI
+Role: Developer +
+Responsibilities: Dev Ops + Threading
 
 '''
 
